@@ -1,0 +1,11 @@
+C:\Users\ahmed\source\repos\Program_Paire_npair\bin\Debug\Program_Paire_npair.exe.config
+C:\Users\ahmed\source\repos\Program_Paire_npair\bin\Debug\Program_Paire_npair.exe
+C:\Users\ahmed\source\repos\Program_Paire_npair\bin\Debug\Program_Paire_npair.pdb
+C:\Users\ahmed\source\repos\Program_Paire_npair\obj\Debug\Program_Paire_npair.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\Program_Paire_npair\obj\Debug\Program_Paire_npair.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmed\source\repos\Program_Paire_npair\obj\Debug\Program_Paire_npair.Form1.resources
+C:\Users\ahmed\source\repos\Program_Paire_npair\obj\Debug\Program_Paire_npair.Properties.Resources.resources
+C:\Users\ahmed\source\repos\Program_Paire_npair\obj\Debug\Program_Paire_npair.csproj.GenerateResource.cache
+C:\Users\ahmed\source\repos\Program_Paire_npair\obj\Debug\Program_Paire_npair.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\Program_Paire_npair\obj\Debug\Program_Paire_npair.exe
+C:\Users\ahmed\source\repos\Program_Paire_npair\obj\Debug\Program_Paire_npair.pdb

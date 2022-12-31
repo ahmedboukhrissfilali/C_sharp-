@@ -1,0 +1,11 @@
+C:\Users\ahmed\source\repos\Project_1 affichier\obj\Debug\Project_1 affichier.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\Project_1 affichier\obj\Debug\Project_1 affichier.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmed\source\repos\Project_1 affichier\obj\Debug\Project_1_affichier.Form1.resources
+C:\Users\ahmed\source\repos\Project_1 affichier\obj\Debug\Project_1_affichier.Properties.Resources.resources
+C:\Users\ahmed\source\repos\Project_1 affichier\obj\Debug\Project_1 affichier.csproj.GenerateResource.cache
+C:\Users\ahmed\source\repos\Project_1 affichier\obj\Debug\Project_1 affichier.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\Project_1 affichier\bin\Debug\Project_1 affichier.exe.config
+C:\Users\ahmed\source\repos\Project_1 affichier\bin\Debug\Project_1 affichier.exe
+C:\Users\ahmed\source\repos\Project_1 affichier\bin\Debug\Project_1 affichier.pdb
+C:\Users\ahmed\source\repos\Project_1 affichier\obj\Debug\Project_1 affichier.exe
+C:\Users\ahmed\source\repos\Project_1 affichier\obj\Debug\Project_1 affichier.pdb

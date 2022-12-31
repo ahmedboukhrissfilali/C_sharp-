@@ -1,0 +1,8 @@
+C:\Users\ahmed\source\repos\C_constructeur\bin\Debug\C_constructeur.exe.config
+C:\Users\ahmed\source\repos\C_constructeur\bin\Debug\C_constructeur.exe
+C:\Users\ahmed\source\repos\C_constructeur\bin\Debug\C_constructeur.pdb
+C:\Users\ahmed\source\repos\C_constructeur\obj\Debug\C_constructeur.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\C_constructeur\obj\Debug\C_constructeur.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmed\source\repos\C_constructeur\obj\Debug\C_constructeur.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\C_constructeur\obj\Debug\C_constructeur.exe
+C:\Users\ahmed\source\repos\C_constructeur\obj\Debug\C_constructeur.pdb

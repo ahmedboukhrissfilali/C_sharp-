@@ -1,0 +1,11 @@
+C:\Users\ahmed\source\repos\3Nombre\bin\Debug\3Nombre.exe.config
+C:\Users\ahmed\source\repos\3Nombre\bin\Debug\3Nombre.exe
+C:\Users\ahmed\source\repos\3Nombre\bin\Debug\3Nombre.pdb
+C:\Users\ahmed\source\repos\3Nombre\obj\Debug\3Nombre.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\3Nombre\obj\Debug\3Nombre.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmed\source\repos\3Nombre\obj\Debug\_3Nombre.Form1.resources
+C:\Users\ahmed\source\repos\3Nombre\obj\Debug\_3Nombre.Properties.Resources.resources
+C:\Users\ahmed\source\repos\3Nombre\obj\Debug\3Nombre.csproj.GenerateResource.cache
+C:\Users\ahmed\source\repos\3Nombre\obj\Debug\3Nombre.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\3Nombre\obj\Debug\3Nombre.exe
+C:\Users\ahmed\source\repos\3Nombre\obj\Debug\3Nombre.pdb

@@ -1,0 +1,12 @@
+C:\Users\ahmed\source\repos\project_2 somme_de_deux_Nombre\obj\Debug\project_2 somme_de_deux_Nombre.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\project_2 somme_de_deux_Nombre\obj\Debug\project_2 somme_de_deux_Nombre.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmed\source\repos\project_2 somme_de_deux_Nombre\obj\Debug\project_2_somme_de_deux_Nombre.Form1.resources
+C:\Users\ahmed\source\repos\project_2 somme_de_deux_Nombre\obj\Debug\project_2_somme_de_deux_Nombre.Properties.Resources.resources
+C:\Users\ahmed\source\repos\project_2 somme_de_deux_Nombre\obj\Debug\project_2 somme_de_deux_Nombre.csproj.GenerateResource.cache
+C:\Users\ahmed\source\repos\project_2 somme_de_deux_Nombre\obj\Debug\project_2 somme_de_deux_Nombre.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\project_2 somme_de_deux_Nombre\bin\Debug\project_2 somme_de_deux_Nombre.exe.config
+C:\Users\ahmed\source\repos\project_2 somme_de_deux_Nombre\bin\Debug\project_2 somme_de_deux_Nombre.exe
+C:\Users\ahmed\source\repos\project_2 somme_de_deux_Nombre\bin\Debug\project_2 somme_de_deux_Nombre.pdb
+C:\Users\ahmed\source\repos\project_2 somme_de_deux_Nombre\obj\Debug\project_2 somme_de_deux_Nombre.exe
+C:\Users\ahmed\source\repos\project_2 somme_de_deux_Nombre\obj\Debug\project_2 somme_de_deux_Nombre.pdb
+C:\Users\ahmed\source\repos\project_2 somme_de_deux_Nombre\obj\Debug\project_2_somme_de_deux_Nombre.nombre_pair_ou_unpaire.resources
